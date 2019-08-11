@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.*.py
+__pycache__
+bad_zero/
+cat_sharing/
+fast_speedy/
+midnight_moon/
+super_natural/
+time_capsule/
